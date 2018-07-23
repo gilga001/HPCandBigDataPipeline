@@ -1,7 +1,7 @@
 # HPC and BigDataPipeline
 Here is all the code we use in a published paper in PEARC18: 
 
-Combining HPC and Big Data Infrastructures in Large-Scale Post-Processing of SimulaBon Data: A Case Study
+Combining HPC and Big Data Infrastructures in Large-Scale Post-Processing of Simulation Data: A Case Study
 
 ACM Digital Library Link: https://dl.acm.org/citation.cfm?id=3229279
 
